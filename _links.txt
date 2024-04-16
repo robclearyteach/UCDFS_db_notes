@@ -1,3 +1,5 @@
+-- https://github.com/robclearyteach/UCDFS_db_notes
+
 -- Practical Hands-on FIRST:
 	# Equiv' to `SQL_Lab01a, SQL_Lab01b`
 	# Following... Download and install postgres/pgAdmin 
