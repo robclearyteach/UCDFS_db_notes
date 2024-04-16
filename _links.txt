@@ -1,0 +1,23 @@
+-- Practical Hands-on FIRST:
+	# Equiv' to `SQL_Lab01a, SQL_Lab01b`
+	# Following... Download and install postgres/pgAdmin 
+		https://www.postgresqltutorial.com/postgresql-getting-started/									
+		#Following: `PostgreSQL on Windows` but see `...Linux\MacOS`
+		https://www.enterprisedb.com/downloads/postgres-postgresql-downloads
+		#download-links for actual postgres
+		
+		##IMPORTANT: Remember the password you choose for the master-user when you install!!
+		
+		https://www.postgresqltutorial.com/postgresql-getting-started/connect-to-postgresql-database/
+		https://www.postgresqltutorial.com/postgresql-getting-started/postgresql-sample-database/		
+		#download sampledb within (scroll down to: `Download the...`)
+		https://www.postgresqltutorial.com/postgresql-getting-started/load-postgresql-sample-database/	
+		#
+		
+	# To Uninstall:	
+		https://www.enterprisedb.com/docs/supported-open-source/postgresql/uninstalling/				#if need to uninstall
+		
+	# Additional
+	# and sqlite/SQLiteStudio
+		https://sqlitestudio.pl/
+		https://www.sqlite.org/download.html		#Recommend: choose: `sqlite-tools-... .zip`
