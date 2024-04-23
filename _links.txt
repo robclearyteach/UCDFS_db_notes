@@ -1,5 +1,11 @@
 -- https://github.com/robclearyteach/UCDFS_db_notes
 
+-- ##online SQL runners
+-- https://sqliteonline.com/
+-- 
+-- https://www.db-fiddle.com/
+-- https://dbfiddle.uk/
+
 -- Practical Hands-on FIRST:
 	# Equiv' to `SQL_Lab01a, SQL_Lab01b`
 	# Following... Download and install postgres/pgAdmin 
