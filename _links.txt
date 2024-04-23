@@ -71,3 +71,34 @@
 
 %%
 ## find Dreamhome.sql CREATE TABLE and INSERT for Staff table
+
+
+		
+====================
+02
+====================
+
+	=====
+-- ## DOMAIN: 
+-- ## https://www.postgresql.org/docs/current/sql-createdomain.html
+-- ## Online Doc (see above link:) states: 
+-- ## "Currently,expressions cannot contain subqueries nor refer to variables other than VALUE."
+
+	=====
+-- ## default_constraint names:
+-- ## https://stackoverflow.com/questions/4107915/postgresql-default-constraint-names
+
+
+	=====
+-- ## Constraints in general: Adding column and table constraints
+-- ## https://www.postgresql.org/docs/current/ddl-constraints.html
+
+	=====
+-- ## pgexercises:
+-- ## https://pgexercises.com/gettingstarted.html
+
+
+	=====
+-- ## IMPORT/Export CSV
+-- ## https://www.postgresqltutorial.com/postgresql-tutorial/import-csv-file-into-posgresql-table/
+-- ## https://www.postgresqltutorial.com/postgresql-tutorial/export-postgresql-table-to-csv-file/
