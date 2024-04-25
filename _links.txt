@@ -75,7 +75,7 @@
 
 		
 ====================
-02
+03
 ====================
 
 	=====
@@ -102,3 +102,34 @@
 -- ## IMPORT/Export CSV
 -- ## https://www.postgresqltutorial.com/postgresql-tutorial/import-csv-file-into-posgresql-table/
 -- ## https://www.postgresqltutorial.com/postgresql-tutorial/export-postgresql-table-to-csv-file/
+
+
+====================
+04
+====================
+-- ## https://www.postgresqltutorial.com/postgresql-tutorial/postgresql-date/
+-- ## following above ~
+
+
+-- ## pg DATE_PART()
+-- ## https://www.postgresqltutorial.com/postgresql-date-functions/postgresql-date_part/
+
+-- ## For Ref:
+		-- ## https://www.postgresqltutorial.com/postgresql-date-functions/postgresql-to_date/
+		-- ## https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+		
+-- ## https://www.postgresqltutorial.com/postgresql-tutorial/postgresql-alter-table/
+-- ## https://www.postgresqltutorial.com/postgresql-tutorial/postgresql-rename-table/
+-- ## https://www.postgresqltutorial.com/postgresql-tutorial/postgresql-drop-column/
+-- ## https://www.postgresqltutorial.com/postgresql-tutorial/postgresql-add-column/
+-- ## https://www.postgresqltutorial.com/postgresql-tutorial/postgresql-interval/
+-- ## https://www.postgresqltutorial.com/postgresql-tutorial/postgresql-default-value/
+-- ## https://www.postgresqltutorial.com/postgresql-tutorial/postgresql-alter-table/ 
+-- ## https://www.postgresqltutorial.com/postgresql-tutorial/postgresql-rename-column/ 
+-- ## https://www.postgresqltutorial.com/postgresql-tutorial/postgresql-change-column-type/
+-- ## https://www.postgresqltutorial.com/postgresql-tutorial/postgresql-foreign-key/
+
+
+
+
+
