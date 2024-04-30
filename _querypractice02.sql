@@ -1,6 +1,7 @@
 -- 1.
 -- ## Go to:
--- https://pgexercises.com/gettingstarted.html
+-- https://pgexercises.com/gettingstarted.html  
+-- (@See link: 'download the SQL')
 
 -- 2.
 -- Manually create the tables cd.facilities and cd.members 
