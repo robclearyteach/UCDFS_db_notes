@@ -248,3 +248,24 @@ SELECT * FROM facility;
 DELETE FROM facility WHERE facid=33;
 
 SELECT * FROM booking_recreate;
+
+
+-- ## === late three way join example
+SELECT
+*
+-- facility.facid,
+-- booking_recreate.starttime,
+-- members.firstname
+
+FROM
+		facility INNER JOIN booking_recreate
+		ON	    facility.facid = booking_recreate.facid
+		
+		INNER JOIN
+		members
+		ON members.memid = booking_recreate.memid
+
+ORDER BY facility.facid;
+-- 		INNER JOIN members
+-- 		ON  members.memid = booking_recreate.memid
+;
