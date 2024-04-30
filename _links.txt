@@ -130,6 +130,8 @@
 -- ## https://www.postgresqltutorial.com/postgresql-tutorial/postgresql-foreign-key/
 
 
-
-
+====================
+05
+====================
+-- ## https://www.postgresqltutorial.com/postgresql-tutorial/postgresql-joins/
 
