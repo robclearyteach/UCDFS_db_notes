@@ -253,7 +253,7 @@ sqlite3 dreamhome.db .dump > bak_dreamhome_sqlite.sql
 
 -- ## %%
 -- ## =======Practice=========
--- ## _querypractice02.sql
+-- ## _querypractice03.sql
 -- ## Also, work on anything outstanding, ask questions etc.
 
 
