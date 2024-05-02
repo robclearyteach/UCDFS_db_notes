@@ -135,3 +135,14 @@
 ====================
 -- ## https://www.postgresqltutorial.com/postgresql-tutorial/postgresql-joins/
 
+
+====================
+06
+====================
+-- ## https://sqlite.org/fiddle/index.html
+-- ## https://www.sqlite.org/cli.html
+-- ## https://www.sqlite.org/cli.html#dotcmd
+
+
+-- ## https://docs.sqlalchemy.org/en/20/tutorial/engine.html#tutorial-engine
+-- ## https://docs.sqlalchemy.org/en/20/tutorial/dbapi_transactions.html
