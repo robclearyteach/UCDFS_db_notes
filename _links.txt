@@ -146,3 +146,18 @@
 
 -- ## https://docs.sqlalchemy.org/en/20/tutorial/engine.html#tutorial-engine
 -- ## https://docs.sqlalchemy.org/en/20/tutorial/dbapi_transactions.html
+
+
+====================
+07
+====================
+
+-- ## https://www.postgresqltutorial.com/postgresql-administration/postgresql-roles/
+-- ## https://www.postgresql.org/docs/current/sql-createrole.html
+-- ## https://www.postgresqltutorial.com/postgresql-administration/postgresql-grant/
+
+-- ## https://www.psycopg.org/docs/usage.html 
+-- ## https://www.psycopg.org/docs/module.html#psycopg2.connect
+-- ## https://www.psycopg.org/docs/usage.html#with-statement
+
+
