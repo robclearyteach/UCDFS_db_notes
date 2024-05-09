@@ -161,3 +161,7 @@
 -- ## https://www.psycopg.org/docs/usage.html#with-statement
 
 
+====================
+08
+====================
+-- ## https://www.postgresqltutorial.com/postgresql-administration/postgresql-create-database/

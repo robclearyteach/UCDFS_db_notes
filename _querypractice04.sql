@@ -84,4 +84,96 @@
 
 
 
+-- 5. FURTHER SQL
+--		Using the Posgres example
+--		DvdRental database
+--
+--  	Find a suitable 
+--      scenario and write 
+--      SQL queries for each of the 
+--      following:
+
+-- ## Use a scalar sub-query 
+-- ## for = (equals) comparison
+
+-- ## Use a scalar sub-query 
+-- ## for arithmetic (minus) operation
+
+-- ## Use nested sub-queries
+-- ## double nested sub-query:
+
+-- ## ANY and ALL 
+-- ## Use the ANY operator
+	-- ##  for a  > (greater than)
+	-- ##  comparison with a sub-query
+
+	-- ## Show ANY and SOME are synonymous
+
+	-- ## Show another way ~equiv'
+	-- ## without ANY/SOME	
+	-- ##  using different sub-query
+
+	-- ## Show another way ~equiv'
+	-- ## using AND OR
+
+-- ## ALL 
+-- ## Use the ALL operator
+	-- ##  for a > comparison with a sub-query
+
+	-- ## Show another way ~equiv'
+	-- ## without ALL	
+	-- ##  using different sub-query
+
+	-- ## Show another way ~equiv'
+	-- ## using AND OR
+
+-- ## JOINS
+-- ## Different ways to write:
+-- ## Show each of these
+-- ## for a two-way join
+	-- ## INNER JOIN
+	-- ## JOIN
+	-- ## USING
+	-- ## NATURAL JOIN
+
+
+-- ## Execute a three table JOIN 
+-- ## (INNER JOIN)
+
+-- ## JOIN TYPES: 
+-- ## Find a suitable scenario 
+-- ## and write a two-way
+-- ## JOIN for each of:
+	-- ##  LEFT JOIN, 
+	-- ##  RIGHT JOIN, 
+	-- ##  OUTER JOIN
+
+-- ## EXISTS operator
+-- ## Use EXISTS with
+-- ##  a 'correlated' sub-query
+
+
+-- ## Do a suitable example for 
+-- ## each of these:
+	-- ## UNION (Set union) operator
+	-- ## INTERSECT (Set intersection)operator
+	-- ## EXCEPT (Set difference) operator
+
+
+-- ## UPDATE
+-- ## Find examples for: 
+	-- ## Updating multiple rows/cols
+	-- ## Update All Rows
+
+	-- ## Update more-than-one Row
+	-- ## WHERE something 
+
+	-- ## Update multiple columns
+	-- ## of one Row
+
+	-- ## Update multiple columns
+	-- ## of more-than-one Row
+
+
+
 
