@@ -140,6 +140,14 @@
 -- ## Execute a three table JOIN 
 -- ## (INNER JOIN)
 
+-- ## Add an ORDER BY to a JOIN
+-- ## to carry-out some
+-- ## meaningful ordering/sorting
+
+-- ## Add an GROUP BY to a JOIN
+-- ## to carry-out some
+-- ## meaningful Grouping
+
 -- ## JOIN TYPES: 
 -- ## Find a suitable scenario 
 -- ## and write a two-way
