@@ -165,3 +165,21 @@
 08
 ====================
 -- ## https://www.postgresqltutorial.com/postgresql-administration/postgresql-create-database/
+
+
+
+
+====================
+09
+====================
+# If VSCode not detecting venv
+# https://stackoverflow.com/questions/66869413/visual-studio-code-does-not-detect-virtual-environments
+
+
+https://docs.sqlalchemy.org/en/20/orm/index.html
+https://docs.sqlalchemy.org/en/20/orm/quickstart.html
+https://docs.sqlalchemy.org/en/20/orm/quickstart.html#emit-create-table-ddl
+
+https://docs.sqlalchemy.org/en/20/orm/session_basics.html
+https://docs.sqlalchemy.org/en/20/orm/queryguide/query.html
+https://docs.sqlalchemy.org/en/20/orm/quickstart.html#some-deletes
