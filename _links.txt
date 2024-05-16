@@ -183,3 +183,16 @@ https://docs.sqlalchemy.org/en/20/orm/quickstart.html#emit-create-table-ddl
 https://docs.sqlalchemy.org/en/20/orm/session_basics.html
 https://docs.sqlalchemy.org/en/20/orm/queryguide/query.html
 https://docs.sqlalchemy.org/en/20/orm/quickstart.html#some-deletes
+
+
+
+====================
+10
+====================
+-- ## https://docs.sqlalchemy.org/en/20/tutorial/data_select.html
+-- ## https://flask-sqlalchemy.palletsprojects.com/en/3.0.x/legacy-query/
+
+-- ## password-hashing (intro)
+-- ## https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-v-user-logins
+
+-- ## https://docs.sqlalchemy.org/en/20/orm/cascades.html
