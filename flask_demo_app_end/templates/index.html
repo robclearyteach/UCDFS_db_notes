@@ -1,0 +1,20 @@
+{% extends "base.html" %}
+
+{% block content %}
+    <h1>User Manager</h1>
+    <p>Manage users below:</p>
+
+    {% for user in users %}
+        <p>Username: {{ user.username }}:</br>
+                {% for email in user.emails %}
+                    &nbsp;&nbsp;&nbsp;&nbsp;Email: {{ email.email }}
+                {% endfor%}
+            
+                <a href="{{url_for('user_delete', user_id=user.id)}}">[Delete]</a>
+                <a href="{{url_for('user_edit', user_id=user.id)}}">[Edit]</a>
+        </p>
+    {% endfor %}
+
+    <p><a href="{{url_for('user_form')}}">Add User</a></p>
+{% endblock %}
+
